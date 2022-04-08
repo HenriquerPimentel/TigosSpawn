@@ -6,3 +6,5 @@ api-version: 1.18
 commands:
   spawn:
     description: Verify coordinates
+  setspawn:
+    description: Set Spawn
