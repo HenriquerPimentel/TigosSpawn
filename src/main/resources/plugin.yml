@@ -2,3 +2,7 @@ name: 'TigosSpawn'
 version: 0.1.1-alpha
 main: pt.henriquepimentel.tigosspawn.Main
 api-version: 1.18
+
+commands:
+  spawn:
+    description: Verify coordinates
